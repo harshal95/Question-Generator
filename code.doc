@@ -1,0 +1,22 @@
+﻿Build Information:
+
+
+1)Place the passage in the passage.txt file in the passage sub-directory
+
+
+
+2)change the path to /QuestionGenerator/main
+
+3)run the file PointTheGap.py as follows
+	
+	python -W ignore PointTheGap.py 'NUMBER_OF_QUESTIONS'
+
+
+	-W ignore – to ignore warning
+	'NUMBER_OF_QUESTIONS – a optional argument indicating the number of           
+					questions to be generated(default value is 5)
+
+4)The txt files containg questions will be available in Question sub-directory
+
+Note:
+	A valid internet connectivity is required to get the semantic roles.

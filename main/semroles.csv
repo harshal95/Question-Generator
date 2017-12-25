@@ -1,0 +1,6 @@
+Semantic_Roles,Sentence,Sentence_ID
+"[[u""2-2/lived[A0=0-1/Wilson_'s, AM-LOC=3-8/in_a_small_village_in_Kenya, AM-LOC=10-15/in_the_eastern_part_of_Africa]""]]","Wilson's lived in a small village in Kenya, in the eastern part of Africa.",0
+"[[u'1-1/drank[A0=0-0/They, A1=2-3/the_milk, A2=4-8/from_the_goats_and_cows]', u'11-11/sold[A0=0-0/They, A1=12-12/them, AM-TMP=13-16/when_they_needed_money]', u'15-15/needed[R-AM-TMP=13-13/when, A0=14-14/they, A1=16-16/money]']]","They drank the milk from the goats and cows, and sold them when they needed money.",1
+"[[u'4-4/sitting[A1=0-2/One_day_he, A2=5-11/on_a_rock_,_watching_the_goats]', u'9-9/watching[A0=6-7/a_rock, A1=10-11/the_goats]', u'15-15/heard[A0=14-14/he, A1=16-19/something_in_the_bushes]']]","One day he was sitting on a rock, watching the goats, and he heard something in the bushes.",2
+"[[u'1-1/lifted[A0=0-0/Wilson, A1=2-3/his_spear]', u'5-5/moved[A1=0-0/Wilson, AM-MNR=6-6/quietly, A2=7-9/toward_the_lion]']]",Wilson lifted his spear and moved quietly toward the lion.,3
+"[[u'1-1/knew[A0=0-0/Wilson, A1=2-15/that_he_could_take_care_of_the_people_in_his_family_and_his_tribe]', u'5-5/take[A0=3-3/he, AM-MOD=4-4/could, A1=6-15/care_of_the_people_in_his_family_and_his_tribe]']]",Wilson knew that he could take care of the people in his family and his tribe.,4

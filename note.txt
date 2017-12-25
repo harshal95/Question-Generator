@@ -1,0 +1,19 @@
+The following packages have to be installed:
+
+1)pandas
+2)ast
+3)nltk
+4)pkgutil
+5)sumy
+6)requests
+7)blliparser
+8)matplotlib
+9)numpy
+10)patsy
+11)scikit-learn 
+12)termcolor
+13)scipy
+14)genism
+
+   
+
